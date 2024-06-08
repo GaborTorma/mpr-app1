@@ -14,6 +14,9 @@ importers:
       '@gabortorma/mpr-package1':
         specifier: 0.1.4
         version: link:../../packages/mpr-package1
+      '@gabortorma/mpr-package2':
+        specifier: 0.0.2
+        version: link:../../packages/mpr-package2
       release-it:
         specifier: ^17.3.0
         version: 17.3.0(typescript@5.4.5)

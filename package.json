@@ -14,6 +14,7 @@
   "dependencies": {
     "@gabortorma/antfu-eslint-config": "^0.5.12",
     "@gabortorma/mpr-package1": "0.1.4",
+    "@gabortorma/mpr-package2": "0.0.2",
     "release-it": "^17.3.0"
   }
 }
