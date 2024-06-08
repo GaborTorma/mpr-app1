@@ -15,7 +15,7 @@ importers:
         specifier: 0.1.4
         version: link:../../packages/mpr-package1
       '@gabortorma/mpr-package2':
-        specifier: 0.0.2
+        specifier: 0.1.0
         version: link:../../packages/mpr-package2
       release-it:
         specifier: ^17.3.0
