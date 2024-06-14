@@ -15,8 +15,8 @@ importers:
         specifier: 0.1.6
         version: link:../../packages/mpr-package1
       '@gt-packages/mpr-package2':
-        specifier: 0.2.1
-        version: 0.2.1
+        specifier: 0.2.5
+        version: link:../../packages/mpr-package2
       release-it:
         specifier: ^17.3.0
         version: 17.3.0(typescript@5.4.5)
@@ -476,9 +476,6 @@ packages:
 
   '@gabortorma/antfu-eslint-config@0.5.12':
     resolution: {integrity: sha512-Bvyt660HhYn8vOrSfY8EZ1p/NTO9LYInK+HCDpkvWf5eJsrq+BEki5NC+EnlG4rxElNphNaI5Fyn2oisQBwxLQ==}
-
-  '@gt-packages/mpr-package2@0.2.1':
-    resolution: {integrity: sha512-gZwSm8bwMZCWhyHghGt5fbYUL3EtC3K02+vu6VAf9ugUdgmAWGokYVz35ZVbZbfyj1DZum+vhhO9B3rQMSF3qA==, tarball: https://npm.pkg.github.com/download/@gt-packages/mpr-package2/0.2.1/4e916279016370b5bbde7d46b5a9352b9bdd423a}
 
   '@humanwhocodes/config-array@0.11.14':
     resolution: {integrity: sha512-3T8LkOmg45BV5FICb15QQMsyUSWrQ8AygVfC7ZG32zOalnqrilm018ZVCw0eapXux8FtA33q8PSRSstjee3jSg==}
@@ -5877,8 +5874,6 @@ snapshots:
       - utf-8-validate
       - vite
       - vitest
-
-  '@gt-packages/mpr-package2@0.2.1': {}
 
   '@humanwhocodes/config-array@0.11.14':
     dependencies:
